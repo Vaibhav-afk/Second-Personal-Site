@@ -1,0 +1,119 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+div{
+  padding: 30px;
+  background-color: #f6f6f6;
+}
+.top-cloud{
+  position:absolute;
+  right: 320px;
+  height:50px;
+  width:140px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:320px;
+  height:50px;
+  width:140px;
+}
+h1{
+  font-size: 5.625rem;
+  color: #66bfbf;
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66bfbf;
+ font-family: 'Montserrat', sans-serif;
+ font-size: 2.5rem;
+ font-weight: normal;
+ padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p{
+  line-height: 2;
+}
+.middle-container{
+  margin:100px 0;
+}
+.horizontal{
+  width: 4%;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: grey;
+}
+.learn-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Designing{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.coding{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn{
+
+	background-color:#66BFBF;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #66BFBF;
+}.btn:hover {
+	background-color:#66BFBF;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+  color: #026666;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.bottom-container{
+  background-color: #66BFBF;
+}
+.copyright{
+  color: #ffffff;
+  font-size: 0.789rem;
+  padding: 20px 0;
+}
